@@ -5,6 +5,10 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
+  // ✅ Wichtig für GitHub Pages Repo-Deploy:
+  // URL: https://bengaum.github.io/digital-aquarium/
+  base: "/digital-aquarium/",
+
   server: {
     host: "::",
     port: 8080,
