@@ -1,7 +1,11 @@
 README – Digital Aquarium (Offline)
 
-Bernhard Gaum
-2026
+    /* =========================================================
+       DIGITALES AQUARIUM copyright by Ben Gaum
+       Bernhard.gaum@unternehmensberatung-gaum.de
+       https://www.unternehmensberatung-gaum.de
+       https://www.linktr.ee/ben_gaum
+    ========================================================= */
 
 Version: Responsive + Clean‑Fullscreen + Tierverwaltung (Studio • Aquarium • Design)
 Datei: Single‑File HTML (läuft lokal im Browser)
